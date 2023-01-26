@@ -4608,7 +4608,7 @@ null
 
 
 
-## services.postgres.initialScript
+## services.postgres.runInitialScript
 Initial SQL commands to run during database initialization. This can be multiple
 SQL expressions separated by a semi-colon.
 
